@@ -9,6 +9,7 @@ Welcome to the my **Esports Research Papers** repository! This project contains 
   - CT/T-Side balance and win rates
   - Map pool biases and side dominance
   - Statistical methods (Pearson & Spearman correlations)
+  - Predicting CS2 Match outcomes
 
 This repository serves as a platform to collect, share, and discuss critical insights into competitive play, map balance, and broader in-game trends.
 
@@ -17,6 +18,9 @@ This repository serves as a platform to collect, share, and discuss critical ins
 - **Are CS2 Maps Balanced? A Deep Dive Into CT/T-Side Bias & Win Rates**
   - A comprehensive research paper analyzing whether CS2 maps favor the CT or T side, using correlation tests and real match data.
 
+- **Counter Strike Performance Model (CSPM)**
+  - A comprehensive research paper analyzing predicting win percentage in CS2 using a Power Law model.
+  
 *(More papers to come!)*
 
 ## Future Plans
